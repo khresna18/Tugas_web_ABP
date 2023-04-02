@@ -61,7 +61,7 @@
                   <div class="full">
                      <div class="center-desk">
                         <div class="logo">
-                           <a href="index.html">Zon</a>
+                           <a href="index.html">Jon</a>
                         </div>
                      </div>
                   </div>
@@ -155,7 +155,7 @@
                                     <div class="col-md-5">
                                        <div class="zon_text">
                                           <h1 data-animation="animated bounceInLeft">
-                                             Zon<br>
+                                             Jon<br>
                                              Coffee
                                           </h1>
                                           <p data-animation="animated bounceInLeft">
@@ -180,7 +180,7 @@
                                     <div class="col-md-5">
                                        <div class="zon_text">
                                           <h1 data-animation="animated bounceInLeft">
-                                             Zon<br>
+                                             Jon<br>
                                              Coffee
                                           </h1>
                                           <p data-animation="animated bounceInLeft">
@@ -438,7 +438,7 @@
             <div class="container">
                <div class="row">
                   <div class="col-md-12">
-                     <a class="logo_bottom" href="index.html">Zon</a>
+                     <a class="logo_bottom" href="index.html">Jon</a>
                   </div>
                   <div class="col-md-12">
                      <form class="form_subscri">
